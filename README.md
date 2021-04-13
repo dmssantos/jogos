@@ -1,9 +1,11 @@
-# :video_game: Games
+# :small_blue_diamond: GAMES
 
-:point_right: Games desenvolvidos.
 
-<kbd>HTML</kbd>  
-<kbd>CSS</kbd>  
-<kbd>JavaScript</kbd>  
+:point_right: Games criados em Cursos.
 
-&nbsp;
+* Genesis
+* Resgate
+* Cobrinha
+* Memória
+* Dino
+* Spaceshooter
